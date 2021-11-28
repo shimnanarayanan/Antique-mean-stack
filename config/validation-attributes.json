@@ -1,0 +1,10 @@
+{
+    "customer": {
+        "signup": {
+          "phone":"required",
+          "type": "required"
+        }
+      }
+    
+  }
+  
